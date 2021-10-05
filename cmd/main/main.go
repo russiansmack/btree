@@ -4,7 +4,6 @@ import "fmt"
 import "github.com/russiansmack/btree"
 
 func main() {
-	//TODO: rewrite into a test
 	b := btree.NewBTree()
 
 	test := []int{12,11,90,82,7,9}
