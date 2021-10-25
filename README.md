@@ -1,4 +1,5 @@
 # Binary Search Tree
+Implements search for the deepest node inside the btree
 To run the challenge example:
 ```bash
 go run cmd/main/main.go
