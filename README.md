@@ -1,5 +1,4 @@
 # Binary Search Tree
-### Coding challange for Veritone
 To run the challenge example:
 ```bash
 go run cmd/main/main.go
